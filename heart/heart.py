@@ -54,7 +54,7 @@ points_file = "temp.txt"
 
 # 渲染结果
 total_frames = 30
-output_dir = "./output"
+output_dir = "output"
 
 # 格式
 image_fmt = "jpg"
